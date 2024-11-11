@@ -1,0 +1,25 @@
+.left {
+    background-color: pink;
+    width: 250px; 
+    float: left;
+    height: 650px;
+}
+
+.right {
+  position: relative;
+  right:300px;
+  float: right;
+  background-color: white;
+}
+.fresh{
+    float: right;
+       background-color: lightskyblue;
+
+}
+.pnt{
+    
+    background-color: lightskyblue;
+    position: relative;
+    left: 30px;
+
+}
